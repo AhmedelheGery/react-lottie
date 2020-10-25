@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/react-lottie/static/css/main.2b051d2d.chunk.css",
+    "main.js": "/react-lottie/static/js/main.6052637b.chunk.js",
+    "main.js.map": "/react-lottie/static/js/main.6052637b.chunk.js.map",
+    "runtime-main.js": "/react-lottie/static/js/runtime-main.af534133.js",
+    "runtime-main.js.map": "/react-lottie/static/js/runtime-main.af534133.js.map",
+    "static/js/2.42f4b016.chunk.js": "/react-lottie/static/js/2.42f4b016.chunk.js",
+    "static/js/2.42f4b016.chunk.js.map": "/react-lottie/static/js/2.42f4b016.chunk.js.map",
+    "static/js/3.ea05b842.chunk.js": "/react-lottie/static/js/3.ea05b842.chunk.js",
+    "static/js/3.ea05b842.chunk.js.map": "/react-lottie/static/js/3.ea05b842.chunk.js.map",
+    "index.html": "/react-lottie/index.html",
+    "static/css/main.2b051d2d.chunk.css.map": "/react-lottie/static/css/main.2b051d2d.chunk.css.map",
+    "static/js/2.42f4b016.chunk.js.LICENSE.txt": "/react-lottie/static/js/2.42f4b016.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.af534133.js",
+    "static/js/2.42f4b016.chunk.js",
+    "static/css/main.2b051d2d.chunk.css",
+    "static/js/main.6052637b.chunk.js"
+  ]
+}
